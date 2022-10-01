@@ -55,4 +55,6 @@ end
 % Shiri, D. (2020, May 29). Game-of-life/lifegame.m at master · D-Shiri/game-of-life.GitHub.\
 %   Retrieved from https://github.com/d-shiri/game-of-life/blob/master/lifeGame.m
 
+_______________________________________________________________
 
+% Successfully underwent peer review
